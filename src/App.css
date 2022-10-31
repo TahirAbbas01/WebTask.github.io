@@ -1,0 +1,10 @@
+.heading
+{
+  text-align: center;
+  margin-top: 20px;
+  background-color: brown;
+  display: inline-block;
+  margin-right: 60px;
+  color: white;
+  padding: 10px;
+}
